@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sensobeki
+- 👋 Hi, I’m @Utomico
 - 👀 I’m interested in developement 
 - 🌱 I’m currently learning html, css, js
 - 💞️ I’m looking to collaborate on ...
